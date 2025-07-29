@@ -14,7 +14,7 @@ import nest_asyncio
 nest_asyncio.apply()
 
 # Konfiguracja
-TOKEN = "MTM5OTUyNDQzNDA4MzMxOTk1MQ.GCXw48.1zsChG9nFQBkgapXMNjqgUiVGyK582mUXMP7Eo"
+TOKEN = "MTM5OTUyNDQzNDA4MzMxOTk1MQ.GhJtQ0.D3KB1pmj5LKhFXr2m0XbHCPMdLYzKySMjjOffU"
 CLIENT_ID = "1399524434083319951"
 CLIENT_SECRET = "uRpXgi-eTDPXqL_2cPma4ZuBPBmCQhGP"
 REDIRECT_URI = "https://express-production-41d2.up.railway.app/callback"
