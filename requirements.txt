@@ -1,8 +1,4 @@
-import discord
-import aiohttp
-import threading
-import json
-import asyncio
-import random
-import os
-import nest_asyncio
+discord.py
+aiohttp
+flask
+nest_asyncio
