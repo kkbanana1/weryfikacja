@@ -20,6 +20,7 @@ CLIENT_SECRET = "uRpXgi-eTDPXqL_2cPma4ZuBPBmCQhGP"
 REDIRECT_URI = "https://express-production-41d2.up.railway.app/callback"
 
 intents = discord.Intents.default()
+intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 app = Flask(__name__)
 
